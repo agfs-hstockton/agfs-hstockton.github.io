@@ -6,10 +6,12 @@ color: pink;
 }
 
 .Orange {
-  background: Orange;
+ color: pink;
   
   .Pink {
-    background: Orange;
+    color: red
 
     .blue {
-      background: Red;
+      color: blue
+        
+border: 1px solid blue
