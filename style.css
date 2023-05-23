@@ -6,4 +6,7 @@ color: pink;
 }
 
 .Orange {
-  background :
+  background: Orange;
+  
+  .Pink {
+    background: Orange;
